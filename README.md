@@ -1,0 +1,4 @@
+- 👋 ola, meu nome é Wesley!
+- 👀 sou estudande de engenharia e apaixonado por  programação 
+- 🌱 estou aparendo python e tudo que a linguagem me oferece 
+- 💞️ estou aberto a receber oportunidades que agregue o meu conhecimento e na caminhada como programador
